@@ -29,6 +29,6 @@ with st.expander("The Rule are:"):
      3. Money First
  """)
      
-st.markdown('### Welcome to Ice-cream App')
+st.markdown('### Welcome to Ice-cream Appp')
 st.markdown()
      
