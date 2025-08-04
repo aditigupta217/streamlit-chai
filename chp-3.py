@@ -30,5 +30,7 @@ with st.expander("The Rule are:"):
  """)
      
 st.markdown('### Welcome to Ice-cream Appp')
-st.markdown()
+st.markdown('>Blockquote bolte')
+
+
      
